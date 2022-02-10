@@ -1,4 +1,4 @@
-package com.example.bookwormapi;
+package com.example.bookwormapi.models;
 
 import com.google.gson.annotations.*;
 

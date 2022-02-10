@@ -1,11 +1,10 @@
 package com.example.bookwormapi.repositories;
 
-import android.util.Log;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.bookwormapi.api.BookSearchService;
-import com.example.bookwormapi.VolumesResponse;
+import com.example.bookwormapi.models.VolumesResponse;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

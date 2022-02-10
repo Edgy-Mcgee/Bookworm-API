@@ -1,8 +1,10 @@
-package com.example.bookwormapi;
+package com.example.bookwormapi.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.bookwormapi.R;
 
 public class MainActivity extends AppCompatActivity {
 

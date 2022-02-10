@@ -1,6 +1,6 @@
 package com.example.bookwormapi.api;
 
-import com.example.bookwormapi.VolumesResponse;
+import com.example.bookwormapi.models.VolumesResponse;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
