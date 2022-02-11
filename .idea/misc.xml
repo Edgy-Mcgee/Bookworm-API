@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/activity_main.xml" value="0.2793819655521783" />
+        <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/book_item.xml" value="0.32760416666666664" />
-        <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/fragment_booksearch.xml" value="2.0921052631578947" />
+        <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/fragment_booksearch.xml" value="0.33" />
         <entry key="..\:/Users/alidd/AndroidStudioProjects/BookwormAPI/app/src/main/res/layout/mynavgraph.xml" value="0.5744791666666667" />
       </map>
     </option>
